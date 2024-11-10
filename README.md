@@ -11,9 +11,6 @@ Once both of them approve, notification are sent to insurance admin.
 Insurance admin can check for approvals of hospital and lab after which he will calculate the claim amount and do the claim.
 HealthCare.sol contract maintains the logic for this DApp.
 The web pages found in the Web-client folder are used to communicate with the deployed smart contract and also allow logging in for each specific user.
-[Text Steganography](https://colab.research.google.com/drive/1BwrJDI4ZxJIs0U8p_VPsaWub7iBI1f1G#scrollTo=MgKT0KEmxJgj): Hiding Text Inside an Image.
-
-[Image Steganography](https://colab.research.google.com/drive/1olDBDtKcBvtfTCyU7Dv6TtDu1BTPwtHE#scrollTo=XEkZE1OcX-PL): Hiding an Image inside an Image.
 
 
 ## Video Link
