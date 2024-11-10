@@ -29,3 +29,8 @@ Video Demo of Steganography: [Video Demo](https://www.loom.com/share/ce9a01d2736
 
 4. MetaMask
 ```
+
+## Author 
+```
+Toran V Athani
+```
