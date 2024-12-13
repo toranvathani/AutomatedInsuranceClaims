@@ -1,5 +1,4 @@
-# Toran V Athani (21BCE2405)
-
+# Toran V Athani 
 # Automated Insurance Claims
 
 Problem statement:
