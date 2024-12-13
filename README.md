@@ -1,4 +1,3 @@
-# Toran V Athani 
 # Automated Insurance Claims
 
 Problem statement:
